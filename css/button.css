@@ -1,0 +1,7 @@
+.close-btn{
+	position: absolute;
+    right: 45px;
+}
+.close-btn .material-icons{
+	font-size: 40px !important;	
+}
